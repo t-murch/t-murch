@@ -1,16 +1,37 @@
-## Hi there 👋
+# Todd Murchison Jr
 
-<!--
-**t-murch/t-murch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Software Engineer
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/toddmurch)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:t.murchjr@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Professional Goals
+
+- Building impactful tech solutions
+- Continuous learning and skill development in latest technologies
+- Continued expansion of impact in my next role
+
+## 🛠️ Technical Stack
+
+```javascript
+const skills = {
+  languages: ["TypeScript", "JavaScript", "Java", "Go"],
+  frameworks: ["React", "Next.js", "Node.js", "HonoJS"],
+  platforms: ["GitHub", "Docker", "AWS"],
+};
+```
+
+## 🚀 Key Project(s)
+
+### Paws-Harbor
+
+**Active Project** Open-source SaaS platform for Pet-Service Providers.
+
+- **GitHub**: [View Project](https://github.com/t-murch/paws-harbor)
+
+## 📬 Connect With Me
+
+- **LinkedIn**: [in/toddmurch](https://linkedin.com/in/toddmurch)
+- **Email**: <t.murchjr@gmail.com>
+
+---
