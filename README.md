@@ -16,7 +16,7 @@
 ```javascript
 const skills = {
   languages: ["TypeScript", "JavaScript", "Java", "Go"],
-  frameworks: ["React", "Next.js", "Node.js", "HonoJS"],
+  frameworks: ["React", "Next.js", "Node.js", "NestJS"],
   platforms: ["GitHub", "Docker", "AWS"],
 };
 ```
